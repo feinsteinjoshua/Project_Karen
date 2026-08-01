@@ -1,2 +1,2 @@
-# Project_Karen
-Modeling NYT recipes to generate a 'next ingredient' for home cooks.
+# NYT Recipe Scraper
+Notebook workspace for scraping and reviewing New York Times recipe data.
