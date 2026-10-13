@@ -1,2 +1,2 @@
-# NYT Recipe Scraper
-Notebook workspace for scraping and reviewing New York Times recipe data.
+# Recipe Parsing
+Notebook workspace for scraping and recipe datasets.
